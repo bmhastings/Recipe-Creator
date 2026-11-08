@@ -15,3 +15,7 @@ Although there are many other options I would provide for the user, this is a ba
 # Ingredients Home Page:
 Here is the first page that the user will see when they enter the website. The ingredients page will be displayed and give the user the option to build their own recipe based on the ingredients they have. It will also give them the option to give certain restrictions like serving size, difficulty, and whether they are vegan, vegetarian, etc. 
 ![Alt Text](ingredientspage.png)
+
+# Blog Page:
+In this page, the user will have the option to post their thoughts regarding their recipes, others, or even have discussions about anything cooking. This will be an interactive page that will give the user a sense of welcoming and a way to share their ideas with others. The responses will be posted underneath the post button, and users will also have the ability to reply to others. I think having a sign in/sign up option would be helpful as well, or a guest user account. 
+![Alt Text](blog.png)
