@@ -12,4 +12,5 @@ Conclusion
 
 Although there are many other options I would provide for the user, this is a basic outline of some of the things that I want implement based on what I have seen. Through these given options to the user, there would be an extensive data component in which many recipes will have to be added and then distributed for the user to see. Any recommendations or ideas would be very helpful.
 
+Ingredients Home Page
 ![Alt Text](ingredientspage.png)
