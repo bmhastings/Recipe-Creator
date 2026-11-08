@@ -12,5 +12,6 @@ Conclusion
 
 Although there are many other options I would provide for the user, this is a basic outline of some of the things that I want implement based on what I have seen. Through these given options to the user, there would be an extensive data component in which many recipes will have to be added and then distributed for the user to see. Any recommendations or ideas would be very helpful.
 
-Ingredients Home Page
+# Ingredients Home Page:
+Here is the first page that the user will see when they enter the website. The ingredients page will be displayed and give the user the option to build their own recipe based on the ingredients they have. It will also give them the option to give certain restrictions like serving size, difficulty, and whether they are vegan, vegetarian, etc. 
 ![Alt Text](ingredientspage.png)
